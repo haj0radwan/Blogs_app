@@ -1,3 +1,3 @@
-# alnekhba_blogs
+# blogs
 
 A new Flutter project.
